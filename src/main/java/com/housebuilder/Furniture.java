@@ -82,7 +82,7 @@ final class Furniture {
 						c.put(um, f, y0, fence);
 						c.put(um, f, y0 + 1, plate);
 						c.putFaced(um - 1, f, y0, chair, c.left());
-						c.putFaced(um + 1, f, y0, chair, c.right());
+						c.putFaced(um + 1, f, y0, chair, c.right);
 					}
 				} else {
 					for (int u = um - 1; u <= um + 1; u++) {
