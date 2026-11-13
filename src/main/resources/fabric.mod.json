@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "housebuilder",
+	"version": "${version}",
+	"name": "House Builder",
+	"description": "Place a House Builder block, right-click it, and an instant house appears. Wooden and modern houses (small to villa), a haunted barracks and castles (small to grand).",
+	"authors": [
+		"You"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.housebuilder.HouseBuilderMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

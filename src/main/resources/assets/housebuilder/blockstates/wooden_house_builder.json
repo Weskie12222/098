@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "housebuilder:block/wooden_house_builder"
+		}
+	}
+}

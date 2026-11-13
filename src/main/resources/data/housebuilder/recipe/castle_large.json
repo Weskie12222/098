@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"R": "minecraft:stone_bricks",
+		"C": "minecraft:gold_ingot"
+	},
+	"pattern": [
+		"RRR",
+		"RCR",
+		"RRR"
+	],
+	"result": {
+		"id": "housebuilder:castle_large"
+	}
+}

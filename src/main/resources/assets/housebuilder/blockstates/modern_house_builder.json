@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "housebuilder:block/modern_house_builder"
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "housebuilder:block/military_barracks_builder"
+		}
+	}
+}

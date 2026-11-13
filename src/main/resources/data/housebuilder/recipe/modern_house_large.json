@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"R": "minecraft:white_concrete",
+		"C": "minecraft:iron_ingot"
+	},
+	"pattern": [
+		"RRR",
+		"RCR",
+		"RRR"
+	],
+	"result": {
+		"id": "housebuilder:modern_house_large"
+	}
+}

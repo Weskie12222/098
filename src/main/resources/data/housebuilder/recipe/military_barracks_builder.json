@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"R": "minecraft:polished_blackstone_bricks",
+		"C": "minecraft:iron_ingot"
+	},
+	"pattern": [
+		"RRR",
+		"RCR",
+		"RRR"
+	],
+	"result": {
+		"id": "housebuilder:military_barracks_builder"
+	}
+}

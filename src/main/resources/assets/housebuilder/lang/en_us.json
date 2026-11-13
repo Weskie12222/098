@@ -1,0 +1,15 @@
+{
+	"block.housebuilder.wooden_house_small": "Wooden House Builder (Small)",
+	"block.housebuilder.wooden_house_builder": "Wooden House Builder (Medium)",
+	"block.housebuilder.wooden_house_large": "Wooden House Builder (Large)",
+	"block.housebuilder.wooden_house_villa": "Wooden House Builder (Villa)",
+	"block.housebuilder.modern_house_small": "Modern House Builder (Small)",
+	"block.housebuilder.modern_house_builder": "Modern House Builder (Medium)",
+	"block.housebuilder.modern_house_large": "Modern House Builder (Large)",
+	"block.housebuilder.modern_house_villa": "Modern House Builder (Villa)",
+	"block.housebuilder.military_barracks_builder": "Haunted Barracks Builder",
+	"block.housebuilder.castle_small": "Castle Builder (Small)",
+	"block.housebuilder.castle_medium": "Castle Builder (Medium)",
+	"block.housebuilder.castle_large": "Castle Builder (Large)",
+	"block.housebuilder.castle_grand": "Castle Builder (Grand)"
+}
